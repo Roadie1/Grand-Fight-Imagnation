@@ -1,0 +1,25 @@
+{
+  "name": "gfi-fe",
+  "version": "1.0.0",
+  "description": "browser RPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roadie1/Grand-Fight-Imagnation.git"
+  },
+  "keywords": [
+    "RPG"
+  ],
+  "author": "Mikhail Razuvaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roadie1/Grand-Fight-Imagnation/issues"
+  },
+  "homepage": "https://github.com/Roadie1/Grand-Fight-Imagnation#readme",
+  "dependencies": {
+    "react": "^16.6.0"
+  }
+}
